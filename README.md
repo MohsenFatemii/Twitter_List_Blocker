@@ -26,7 +26,7 @@ You can easily install this library using `pip` :
 ### Completing the code
 
 #### Part 1: Entering Required Credentials
-You need to write your credentials in lines `21-30` which is like :
+You need to write your credentials in `Parallel_blocker.py` file. In lines `21-30` you can see these credentials:
 
     # the consumer key
     consumer_key='Enter Your Consumer Key here',
